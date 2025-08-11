@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/ROOT-262626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyROOT-262626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graphviz-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graphviz-000000?logo=graphviz&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge" />
 </p>
 
@@ -51,7 +51,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AlmaLinux-000000?logo=almalinux&logoColor=fff&style=for-the-badge" />
+
 </p>
 
 <p align="center">
