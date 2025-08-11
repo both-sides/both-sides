@@ -67,7 +67,7 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT’s MIGRAD minimizer
 
 ### 🌳 TreeViz (WIP)
 Goal: fast & clear exploration of large hierarchical / graph structures (layout strategies, metric overlays, interaction).  
-Enables quick navigation of deep file structures for researchers, sysadmins, and developers.
+Enables quick navigation of deep file structures for researchers, sysadmins, and developers.</br>
 Currently supports robust file system traversal with full handling of symlinks, permission traps, and special files. 
 
 <!--
