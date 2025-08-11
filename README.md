@@ -69,8 +69,9 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT’s MIGRAD minimizer
 Goal: fast & clear exploration of large hierarchical / graph structures (layout strategies, metric overlays, interaction).  
 Enables quick navigation of deep file structures for researchers, sysadmins, and developers.
 
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=both-sides&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=both-sides&layout=compact&hide_border=true&theme=tokyonight" width="41%" alt="Top Languages"/>
 </p>
+-->
