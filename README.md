@@ -29,7 +29,6 @@
 <p align="center">
   <strong>🗄️ Database & Backend</strong><br/>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ORM-3C3C3C?style=for-the-badge" />
 </p>
