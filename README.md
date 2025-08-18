@@ -15,8 +15,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+  
 </p>
 
 <p align="center">
