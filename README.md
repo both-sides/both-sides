@@ -6,7 +6,7 @@
 
 ---
 
-### 🔬 Research
+### Research
 
 **U.S. CMS PURSUE Intern · CERN CMS-EXO-HSCP Group** · *Fermilab (prior)*  
 HSCP reconstruction and analysis under Dr. Emery Nibigira — dE/dx estimator optimization, mass reconstruction, and signal characterization.  
@@ -15,7 +15,7 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT's MIGRAD minimizer �
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <p align="center">
   <strong>Languages</strong><br/>
@@ -59,11 +59,11 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT's MIGRAD minimizer �
 
 ---
 
-### 🌳 TreeViz *(WIP)*
+### TreeViz *(WIP)*
 Fast, clear exploration of large hierarchical and graph structures — layout strategies, metric overlays, interaction.    
 Handles symlinks, permission traps, and special files robustly.
 
 ---
 
-### 📡 Interests
+### Interests
 Experimental nuclear & particle physics · Detector instrumentation · Scientific software & visualization · HPC pipelines · Electronics
