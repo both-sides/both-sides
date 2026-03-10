@@ -67,3 +67,5 @@ Handles symlinks, permission traps, and special files robustly.
 
 ### Interests
 Experimental nuclear & particle physics · Detector instrumentation · Scientific software & visualization · HPC pipelines · Electronics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=both-sides&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=8&theme=dark)
