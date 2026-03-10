@@ -1,6 +1,6 @@
 <p align="center">
   Physics & Computer Science · Gettysburg College<br/>
-  <em>Experimental Particle Physics · Scientific Computing · Research Software</em><br/>
+  <em> Scientific Computing and Analysis · Research Software and workflows </em><br/>
   <em><strong>"Isn't it simply thrilling to build the very hard and daring things?"</strong></em>
 </p>
 
@@ -59,11 +59,10 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT's MIGRAD minimizer �
 ---
 
 ### 🌳 TreeViz *(WIP)*
-Fast, clear exploration of large hierarchical and graph structures — layout strategies, metric overlays, interaction.  
-Built for researchers, sysadmins, and developers navigating deep file trees.  
+Fast, clear exploration of large hierarchical and graph structures — layout strategies, metric overlays, interaction.    
 Handles symlinks, permission traps, and special files robustly.
 
 ---
 
 ### 📡 Interests
-Experimental nuclear & particle physics · Detector instrumentation · Scientific software & visualization · HPC pipelines · Neutron physics
+Experimental nuclear & particle physics · Detector instrumentation · Scientific software & visualization · HPC pipelines
