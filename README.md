@@ -32,14 +32,17 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT's MIGRAD minimizer â
   <img src="https://img.shields.io/badge/ROOT-262626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyROOT-262626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MINUIT-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffea-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
 </p>
 
 <p align="center">
   <strong>HPC & Systems</strong><br/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AlmaLinux-000000?logo=almalinux&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
