@@ -52,9 +52,7 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT's MIGRAD minimizer �
 </p>
 
 <p align="center">
-  <strong>Simulation & Instrumentation</strong><br/>
-  <img src="https://img.shields.io/badge/McStas-003366?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Geant4-0033A0?style=for-the-badge" />
+  <strong>Electronics & Embedded Systems</strong><br/>
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" />
 </p>
@@ -68,4 +66,4 @@ Handles symlinks, permission traps, and special files robustly.
 ---
 
 ### 📡 Interests
-Experimental nuclear & particle physics · Detector instrumentation · Scientific software & visualization · HPC pipelines
+Experimental nuclear & particle physics · Detector instrumentation · Scientific software & visualization · HPC pipelines · Electronics
