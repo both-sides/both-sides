@@ -1,6 +1,6 @@
 <p align="center">
   Physics & Computer Science · Gettysburg College<br/>
-  <em> Scientific Computing and Analysis · Research Software and workflows </em><br/>
+  <em> Scientific Computing and Analysis · HEP Research Software and workflows </em><br/>
   <em><strong>"Isn't it simply thrilling to build the very hard and daring things?"</strong></em>
 </p>
 
@@ -66,5 +66,5 @@ Handles symlinks, permission traps, and special files robustly.
 ---
 
 ### Interests
-Experimental nuclear & particle physics · Detector instrumentation · Scientific software & visualization · HPC pipelines · Electronics
+Experimental nuclear & particle physics · Detector instrumentation · Scientific software & visualization · HPC pipelines · Electronics · Quantum Computing
 
