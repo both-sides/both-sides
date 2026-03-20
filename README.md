@@ -1,7 +1,6 @@
 <p align="center">
   Physics & Computer Science · Gettysburg College<br/>
   <em> Scientific Computing and Analysis · HEP Research Software and workflows </em><br/>
-  <em><strong>"Isn't it simply thrilling to build the very hard and daring things?"</strong></em>
 </p>
 
 ---
