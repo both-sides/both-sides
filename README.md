@@ -1,6 +1,6 @@
 <p align="center">
   Physics & Computer Science · Gettysburg College<br/>
-  <em> Scientific Computing and Analysis · HEP Research Software and workflows </em><br/>
+  <em> Scientific Computing and Analysis · HEP Research Software and workflows · Machine Learning </em><br/>
 </p>
 
 ---
