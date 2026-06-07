@@ -8,7 +8,7 @@
 ### Research
 
 **IRIS-HEP Fellow** · *Princeton & UNL* <br/>
-Hardening **hq** (hep-queue), a pull-based task distribution system for high evergy physics workloads, for test deployment at coffea-casa. TLS, worker telemetry, per-task software environments (pixi-pack), scale validation against the AGC t̄t workload.
+Hardening **hq** (hep-queue), a pull-based task distribution system for high energy physics workloads, for test deployment at coffea-casa. TLS, worker telemetry, per-task software environments (pixi-pack), scale validation against the AGC t̄t workload.
 Mentors: Peter Fackeldey · Oksana Shadura
 
 **U.S. CMS PURSUE Intern · CMS-EXO-HSCP** · *Fermilab* <br/>
