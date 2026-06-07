@@ -49,11 +49,7 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT's MIGRAD minimizer â
   <img src="https://img.shields.io/badge/AlmaLinux-000000?logo=almalinux&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTCondor-2C8EBB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
 </p>
 
 <p align="center">
