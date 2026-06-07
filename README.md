@@ -8,9 +8,8 @@
 ### Research
 
 **IRIS-HEP Fellow · Summer 2026** · *Princeton University & University of Nebraska-Lincoln*
-Hardening **hq** (hep-queue), a pull-based task distribution system, for production deployment at the **coffea-casa** analysis facility. TLS, lightweight worker telemetry, per-task software environments (pixi-pack), and scale validation against the AGC t̄t workload with Dask and TaskVine as reference points.
-Mentors: Peter Fackeldey (Princeton) · Oksana Shadura (UNL)
-NSF-funded under Cooperative Agreement PHY-2323298.
+Hardening **hq** (hep-queue), a pull-based task distribution system, for test deployment at the **coffea-casa** analysis facility. TLS, lightweight worker telemetry, per-task software environments (pixi-pack), and scale validation against the AGC t̄t workload with Dask and TaskVine as reference points.
+Mentors: Peter Fackeldey (Princeton) · Oksana Shadura (UNL).
 
 **U.S. CMS PURSUE Intern · CERN CMS-EXO-HSCP Group** · *Fermilab (prior)*
 HSCP reconstruction and analysis under Dr. Emery Nibigira — dE/dx estimator optimization, mass reconstruction, and signal characterization.
@@ -29,14 +28,12 @@ Developed an adaptive Landau-MPV fit estimator using MINUIT's MIGRAD minimizer �
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FORTRAN-734F96?style=for-the-badge" />
 </p>
 
 <p align="center">
   <strong>HEP & Data Analysis</strong><br/>
   <img src="https://img.shields.io/badge/ROOT-262626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyROOT-262626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MINUIT-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coffea-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=for-the-badge" />
